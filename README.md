@@ -1,4 +1,3 @@
-ADBU Canteen Review & Management System
 
 
 Project Description
@@ -27,3 +26,4 @@ Run: Turn on Apache and MySQL in XAMPP, then visit localhost/adbu_canteen_portal
 
 Video Demo:
 I have recorded a full walkthrough of the project here:
+
