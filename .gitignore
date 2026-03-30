@@ -1,0 +1,18 @@
+# Ignore Windows system folders
+Thumbs.db
+Desktop.ini
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore XAMPP/Local config files (if any)
+config.php
+.env
+
+# Ignore any IDE specific folders
+.vscode/
+.idea/
