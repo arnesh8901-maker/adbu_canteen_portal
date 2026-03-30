@@ -26,10 +26,9 @@ I built this web-based portal for **Assam Don Bosco University** to digitalize o
 1. **Download:** Copy the project folder to `C:\xampp\htdocs\`.
 2. **Database:** Create a database named `canteen_db` in phpMyAdmin.
 3. **Import:** Import the `database.sql` file provided here.
-4. **Run:** Open `localhost/adbu_canteen_portal/index.php` in your browser.
+4. **Run:** Open `localhost/adbu_canteen/register.php` in your browser.
 
 ---
 
 ### **📺 Video Demo**
 Check out the full walkthrough and installation guide here:
-[PASTE YOUR YOUTUBE LINK HERE]
