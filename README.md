@@ -1,24 +1,23 @@
-ADBU Canteen Review & Management System
-Project Overview
-This project is developed for Assam Don Bosco University to digitalize the campus canteen operations. It replaces the manual menu system with a web-based portal, allowing students to check the live menu and provide instant feedback through their mobile devices or PCs.
-Core Features
-Dual Login System: Secure and separate authentication for Students and the Canteen Administrator.
-Live Menu Updates: Real-time display of available food items along with their current prices.
-Student Feedback Mechanism: Integrated star-rating and comment system to help the management improve food quality.
-Modern User Interface: Features a professional Dark Mode toggle and a sleek Slim Footer for better navigation.
-Fully Responsive: Optimized layout that works perfectly across desktops, tablets, and mobile phones.
-Technical Stack
-Frontend: HTML5, CSS3, JavaScript
-Backend: PHP
-Database: MySQL
-Environment: XAMPP (Localhost)
-How to Run This Project
-Download: Download or clone this repository into your C:\xampp\htdocs\ folder.
-Database Configuration:
-Open phpMyAdmin.
-Create a new database named canteen_db.
-Import the database.sql file provided in this repository.
-Start Services: Open XAMPP Control Panel and start Apache and MySQL.
-Access Portal: Open any browser and go to: localhost/adbu_canteen/register.php.
-Video Demonstration
-You can watch the full project walkthrough and installation guide here:
+🍔 ADBU Canteen Review & Management System
+What is this project?
+I developed this portal specifically for Assam Don Bosco University. The main idea was to make our canteen experience digital. Instead of waiting or asking for the menu, students can just log in and check what's cooking today and how much it costs. Also, they can leave honest reviews to help the canteen improve.
+Cool Features:
+Student & Admin Login: Separate sections for users and the canteen manager.
+Live Menu: No more manual charts. Prices and items are updated in real-time.
+Review & Star Ratings: Students can rate dishes (1 to 5 stars) and write comments.
+Dark Mode: Added a toggle because let's be honest, we all love dark themes at night.
+Responsive Layout: It works smoothly on any mobile screen or laptop.
+How to set it up on your PC:
+Download the code: Just download the zip or clone it into your C:\xampp\htdocs\ folder.
+Setup the Database: * Open phpMyAdmin.
+Create a new database called canteen_db.
+Import the database.sql file that I've included in this folder.
+Run it: Start Apache and MySQL from XAMPP, then open your browser and type: localhost/adbu_canteen_portal/index.php
+Built Using:
+HTML & CSS for the layout.
+JavaScript for the Dark Mode and UI tricks.
+PHP for all the backend logic.
+MySQL for storing data.
+📺 Project Walkthrough (Video):
+I have recorded a full demo showing how to install and use this system. Check it out here:
+[PASTE YOUR YOUTUBE LINK HERE]
