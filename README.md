@@ -70,5 +70,5 @@ Watch the full project walkthrough, feature highlights, and installation guide o
 
 <div align="center">
   <b>Developed by Arnesh Sahu</b><br>
-  <i>MCA Candidate | Assam Don Bosco University</i>
+  <i>MCA Student| Assam Don Bosco University</i>
 </div>
