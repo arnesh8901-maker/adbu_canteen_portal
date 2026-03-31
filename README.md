@@ -62,7 +62,7 @@ Follow these steps to set up the project on your local machine:
 ### **📺 Video Demonstration**
 Watch the full project walkthrough, feature highlights, and installation guide on YouTube:
 
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/fz04CEuW7ew?si=fdfC_74eFfiuKrpX)
 
 > *Click the button above to view the demonstration.*
 
