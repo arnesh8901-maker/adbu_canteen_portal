@@ -1,34 +1,67 @@
-# 🍔 ADBU Canteen Review & Management System
+<div align="center">
+  <h1>🍴 ADBU Canteen Menu & Review System</h1>
+  <p><i>A Comprehensive Web Solution for Modern Campus Dining</i></p>
 
-### **Project Overview**
-I built this web-based portal for **Assam Don Bosco University** to digitalize our canteen menu and feedback system. It allows students to check what's available and give their honest reviews online.
-
----
-
-### **🚀 Key Features**
-* **Dual Login:** Separate portals for Students and Canteen Admin.
-* **Live Menu:** Real-time updates for food items and pricing.
-* **Rating System:** 1-5 star ratings with detailed comments.
-* **Dark Mode:** A professional toggle for better night UI.
-* **Fully Responsive:** Optimized for both mobile and desktop.
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge" />
+</div>
 
 ---
 
-### **🛠️ Technologies Used**
-* **PHP** (Backend Logic)
-* **MySQL** (Database)
-* **HTML5 & CSS3** (Design)
-* **JavaScript** (Interactivity)
+## 📖 Project Overview
+The **ADBU Canteen Review System** is designed to bridge the gap between students and canteen management. By digitizing the menu and feedback loop, we ensure better food quality and service efficiency at **Assam Don Bosco University**.
 
 ---
 
-### **💻 Installation Steps**
-1. **Download:** Copy the project folder to `C:\xampp\htdocs\`.
-2. **Database:** Create a database named `canteen_db` in phpMyAdmin.
-3. **Import:** Import the `database.sql` file provided here.
-4. **Run:** Open `localhost/adbu_canteen/register.php` in your browser.
+## ✨ Advanced Features
+
+### 🟢 User-Centric Design
+- **Smart Categorization:** Instant toggle between **Veg** and **Non-Veg** items using dynamic SQL filtering.
+- **Interactive Reviews:** Real-time rating system (1-5 Stars) with user comments.
+- **Adaptive UI:** Fully responsive layout that scales perfectly from a **15-inch Laptop** to a **6-inch Smartphone**.
+- **Theming:** Smooth **Dark Mode** transition for comfortable night-time browsing.
+
+### 🔴 Administrative Control
+- **Secure Dashboard:** Protected by PHP Session management.
+- **Menu CRUD Operations:** Add, Read, Update, and Delete food items in seconds.
+- **Audit Logs:** View and moderate all student reviews to maintain platform decorum.
 
 ---
 
-### **📺 Video Demo**
-Check out the full walkthrough and installation guide here:
+## 🛠️ Technical Architecture
+
+| Layer | Technology Used |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3 (Flexbox & Grid), JavaScript |
+| **Backend** | PHP (Procedural/OOP) |
+| **Database** | MySQL (Relational) |
+| **Server** | XAMPP (Apache) |
+| **Tools** | VS Code, Git, GitHub |
+
+---
+
+## 📸 Project Preview
+*(Arnesh, yahan apni images ka link daal dena)*
+| Desktop View | Mobile Responsive |
+| :---: | :---: |
+| <img src="images/desktop_preview.png" width="400"> | <img src="images/mobile_preview.png" width="180"> |
+
+---
+
+## 🚀 Installation Guide
+
+1. **Setup Environment:**
+   Install [XAMPP](https://www.apachefriends.org/) and start Apache & MySQL modules.
+
+2. **Database Configuration:**
+   - Go to `localhost/phpmyadmin`
+   - Create a database: `canteen_db`
+   - Import `canteen_db.sql` from the `/database` folder.
+
+3. **Deploy Project:**
+   ```bash
+   # Clone the repository
+   git clone [https://github.com/Arnesh-Sahu/ADBU-Canteen-Review.git](https://github.com/Arnesh-Sahu/ADBU-Canteen-Review.git)
